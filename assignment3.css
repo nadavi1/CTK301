@@ -1,0 +1,17 @@
+body {background-color: black;}
+p {color:white}
+h1 { 
+    color: lime
+}
+h2 { color:teal}
+
+h3 { color:orangered}
+
+.whitetext {color: white}
+.redtext {color:red}
+.greyback {background-color: #2f2f2f}
+
+a:link {color:red}
+a:hover {color:yellow}
+a:visited {color: green}
+
