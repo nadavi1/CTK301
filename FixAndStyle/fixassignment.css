@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+    color: green;  
+}
+a:hover { 
+    text-decoration: underline; 
+    color: red;
+}
+
+.perrywinkle {background-color: cornflowerblue;}
+.boldyellow {color: gold;}
