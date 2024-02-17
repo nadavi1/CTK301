@@ -1,0 +1,58 @@
+head {font-family:Arial, Helvetica, sans-serif;
+    font: Arial, Helvetica, sans-serif;}
+
+body {background-color: gray;
+    background-image: url(dong\ key.jpg);
+    font-family:Arial, Helvetica, sans-serif;
+    font: Arial, Helvetica, sans-serif;}
+
+p {color:white;}
+h1 { 
+    color: orange;
+    font-style: italic;
+    font-weight: normal
+}
+h2 { color: orange;
+    font-style: italic;
+    font-weight: normal}
+
+h3 { color: orange;
+    font-style: italic;
+    font-weight: normal}
+
+h4 {color: orange;
+    font-style: italic;
+    font-weight: normal}
+
+h5 {color: orange;
+    font-style: italic;
+    font-weight: normal}
+
+h6 {color: orange;
+    font-style: italic;
+    font-weight: normal}
+
+.whitetext {color: white}
+.redtext {color:red}
+.greyback {background-color: #2f2f2f}
+
+a:link {color:red}
+a:hover {color:yellow}
+a:visited {color: green}
+
+.textcenter {
+    text-align: center;
+}
+
+.textjustify {
+    text-align: justify;
+}
+
+.boxmodel {
+    background-color: yellow;
+    border: 20px solid black;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+
